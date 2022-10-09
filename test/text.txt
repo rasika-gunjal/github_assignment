@@ -1,0 +1,9 @@
+hello
+Now edit the test.txt file. Add some random context
+Add, Commit and Push the text.txt file to the repository
+Now go to repo online and edit the text.txt file and commit changes. Please add screenshot
+Now pull all the changes to the local repository. Please add screenshot
+Use the git log to see a list of changes to the repository.
+Take all the screenshots and add them to a folder named “screenshots”
+Move all the screenshots in that folder
+Add, Commit and Push all the screenshots to remote repo.
