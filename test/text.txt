@@ -7,3 +7,9 @@ Use the git log to see a list of changes to the repository.
 Take all the screenshots and add them to a folder named “screenshots”
 Move all the screenshots in that folder
 Add, Commit and Push all the screenshots to remote repo.
+
+
+Branch Creation:
+Now create a new branch. Make sure you do not add space in the branch name. Use underscores instead of space in the branch name
+Now run git status and verify if the branch is changed. Output has a line “on branch <branch_name>”
+Now create a new folder named coding
