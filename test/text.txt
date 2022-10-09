@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 hello
 Now edit the test.txt file. Add some random context
 Add, Commit and Push the text.txt file to the repository
@@ -7,3 +8,20 @@ Use the git log to see a list of changes to the repository.
 Take all the screenshots and add them to a folder named �screenshots�
 Move all the screenshots in that folder
 Add, Commit and Push all the screenshots to remote repo.
+=======
+hello
+Now edit the test.txt file. Add some random context
+Add, Commit and Push the text.txt file to the repository
+Now go to repo online and edit the text.txt file and commit changes. Please add screenshot
+Now pull all the changes to the local repository. Please add screenshot
+Use the git log to see a list of changes to the repository.
+Take all the screenshots and add them to a folder named “screenshots”
+Move all the screenshots in that folder
+Add, Commit and Push all the screenshots to remote repo.
+
+
+Branch Creation:
+Now create a new branch. Make sure you do not add space in the branch name. Use underscores instead of space in the branch name
+Now run git status and verify if the branch is changed. Output has a line “on branch <branch_name>”
+Now create a new folder named coding
+>>>>>>> 4f3241e4a0c6a97b255e235b813780b00443cfe9
